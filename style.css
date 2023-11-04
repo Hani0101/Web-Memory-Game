@@ -1,0 +1,6 @@
+.grid {
+  display: flex; /* aligning elements like stacking them on top of each other or making them a row*/
+  flex-wrap: wrap; /* stacking the elements onto each other*/
+  width: 400px;
+  height: 300px;
+}
